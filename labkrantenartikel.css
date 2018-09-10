@@ -1,0 +1,14 @@
+	body {
+    background-image: url("achtergrond.jpg");
+};
+
+p.img {
+	border-style: dotted;
+	border-width: medium;
+}
+
+img . {
+    border-style: solid;
+    border-width: 5px;
+};
+
