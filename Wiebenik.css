@@ -1,0 +1,65 @@
+body {
+	background-image: url("city.jpg");
+}
+
+h3 {
+	color: white;
+	text-align: left;
+	font-family: Arial;
+}
+
+p {
+	color: crimson;
+	text-align: left;
+	font-family: Arial;
+}
+
+img {
+	float:right;
+	border-style:solid;
+	border-width:3px;
+	border-color: white;
+}
+h4 {
+	font-family: Arial;
+	text-align: center;
+	background-color: white;
+	background-position: center;
+}
+
+h5 {
+	float:left;
+	border-style:solid;
+	border-width:2px;
+	border-color: white;
+	margin-left: 700px;
+	margin-top: 150px;
+}
+
+h3.vraag2 {
+	color: white;
+	text-align: left;
+	font-family: Arial;
+	margin-left: 50px;
+}
+
+h3.vraag3 {
+	color: white;
+	text-align: left;
+	font-family: Arial;
+	margin-left: 100px;
+}
+
+p.antwoord2 {
+	color: crimson;
+	text-align: left;
+	font-family: Arial;
+	margin-left: 50px;
+}
+
+p.antwoord3 {
+	color: crimson;
+	text-align: left;
+	font-family: Arial;
+	margin-left: 100px;
+}
